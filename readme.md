@@ -10,7 +10,10 @@ Types of Keyloggers
  installation :-
  
  Linux 
- sudo apt intall python3 python3-pip git -y
-1. git clone https://github.com/rakeshprajapat10/keylogger
-2.cd keylogger\
-3.python3 rkey.py
+sudo apt intall python3 python3-pip git -y
+ 
+git clone https://github.com/rakeshprajapat10/keylogger
+
+cd keylogger\
+
+python3 rkey.py
